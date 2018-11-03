@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28fc7cf8-ad0f-4b4b-ad16-3a5a941a4c78" name="Default Changelist" comment="" />
+    <list default="true" id="28fc7cf8-ad0f-4b4b-ad16-3a5a941a4c78" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/sda/example/ArithmeticOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/sda/example/ArithmeticStringExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/sda/example/ConditionIfExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/sda/example/DoWhileLoopExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/sda/example/FactorialExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/sda/example/ForLoopDivisionExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/sda/example/ForLoopExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/sda/example/InputOutputExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/sda/example/LogicalOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/sda/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/sda/example/PowerExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/sda/example/SwitchExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/sda/example/WhileExample.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,36 +28,43 @@
     <session id="629190293">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.25" value="1" />
-          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2748" />
+          <entry key="java" value="4417" />
+          <entry key="txt" value="112" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2748" />
+          <entry key="JAVA" value="4417" />
+          <entry key="PLAIN_TEXT" value="112" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="17" />
+          <entry key="java" value="27" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="27" />
+          <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
     </session>
@@ -50,50 +72,89 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sda/example/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/sda/example/InputOutputExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+            <state relative-caret-position="200">
+              <caret line="8" column="49" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sda/example/DoWhileLoopExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sda/example/Excercise5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="24" selection-start-column="24" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sda/example/ExcerciseTabWhile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sda/example/TwoDimensionMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sda/example/VectorToMtrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="545">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sda/example/MethodsExercise.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
-                <element signature="e#64#65#0" expanded="true" />
-                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/sda/example/WriteToFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sda/example/LogicalOperations.java">
+        <entry file="file://$PROJECT_DIR$/src/com/sda/example/NestedForLoop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sda/example/InputOutputExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="8" column="49" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/sda/example/DoWhileLoopExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sda/example/FactorialExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82">
-              <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+            <state relative-caret-position="400">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -133,6 +194,14 @@
         <option value="$PROJECT_DIR$/src/WhileExample.java" />
         <option value="$PROJECT_DIR$/src/FactorialExample.java" />
         <option value="$PROJECT_DIR$/src/com/sda/example/FactorialExample.java" />
+        <option value="$PROJECT_DIR$/src/com/sda/example/WriteToFile.java" />
+        <option value="$PROJECT_DIR$/src/com/sda/example/NestedForLoop.java" />
+        <option value="$PROJECT_DIR$/src/com/sda/example/Excercise5.java" />
+        <option value="$PROJECT_DIR$/src/com/sda/example/ExcerciseTabWhile.java" />
+        <option value="$PROJECT_DIR$/src/com/sda/example/TwoDimensionMatrix.java" />
+        <option value="$PROJECT_DIR$/src/com/sda/example/VectorToMtrix.java" />
+        <option value="$PROJECT_DIR$/src/com/sda/example/MethodsExercise.java" />
+        <option value="$PROJECT_DIR$/test_file.txt" />
       </list>
     </option>
   </component>
@@ -391,12 +460,13 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -415,23 +485,21 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="example" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540757676342" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541270216124" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Workspace\Test" />
       <recent name="C:\Workspace\Test\src\com\sda\example" />
     </key>
   </component>
@@ -447,16 +515,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DoWhileLoopExample (1)">
-    <configuration name="ArithmeticStringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArithmeticStringExample" />
-      <module name="Java_Basis" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DoWhileLoopExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.example.DoWhileLoopExample" />
+  <component name="RunManager" selected="Application.MethodsExercise">
+    <configuration name="ExcerciseTabWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.example.ExcerciseTabWhile" />
       <module name="Java_Basis" />
       <extension name="coverage">
         <pattern>
@@ -468,88 +529,72 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhileLoopExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DoWhileLoopExample" />
+    <configuration name="MethodsExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.example.MethodsExercise" />
       <module name="Java_Basis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sda.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactorialExample" />
+    <configuration name="NestedForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.example.NestedForLoop" />
       <module name="Java_Basis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sda.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileExample" />
+    <configuration name="TwoDimensionMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.example.TwoDimensionMatrix" />
       <module name="Java_Basis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sda.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+    <configuration name="VectorToMtrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.example.VectorToMtrix" />
       <module name="Java_Basis" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="Java_Basis" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sda.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArithmeticStringExample" />
-      <item itemvalue="Application.WhileExample" />
-      <item itemvalue="Application.DoWhileLoopExample" />
-      <item itemvalue="Application.FactorialExample" />
-      <item itemvalue="Application.DoWhileLoopExample (1)" />
+      <item itemvalue="Application.NestedForLoop" />
+      <item itemvalue="Application.ExcerciseTabWhile" />
+      <item itemvalue="Application.TwoDimensionMatrix" />
+      <item itemvalue="Application.VectorToMtrix" />
+      <item itemvalue="Application.MethodsExercise" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DoWhileLoopExample (1)" />
-        <item itemvalue="Application.FactorialExample" />
-        <item itemvalue="Application.DoWhileLoopExample" />
-        <item itemvalue="Application.WhileExample" />
-        <item itemvalue="Application.ArithmeticStringExample" />
+        <item itemvalue="Application.MethodsExercise" />
+        <item itemvalue="Application.VectorToMtrix" />
+        <item itemvalue="Application.TwoDimensionMatrix" />
+        <item itemvalue="Application.ExcerciseTabWhile" />
+        <item itemvalue="Application.NestedForLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -564,12 +609,20 @@
       <option name="presentableId" value="Default" />
       <updated>1540321180128</updated>
     </task>
+    <task id="LOCAL-00001" summary="Week two: tables, methods and text files operations.">
+      <created>1541270119644</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541270119644</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.54008436" visible="true" weight="0.19530201" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.54008436" visible="true" weight="0.2543624" />
       <window_info id="Structure" order="1" sideWeight="0.4599156" side_tool="true" weight="0.24966443" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -580,8 +633,8 @@
       <window_info id="MaxCompute Job Explorer" order="8" weight="0.3295302" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.12853107" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28308207" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3551089" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -604,6 +657,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Week two: tables, methods and text files operations." />
+    <option name="LAST_COMMIT_MESSAGE" value="Week two: tables, methods and text files operations." />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -659,17 +716,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/java/jdk/jdk_8/src.zip!/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="1532" column="17" selection-start-line="1532" selection-start-column="11" selection-end-line="1532" selection-end-column="17" />
-          <folding>
-            <element signature="e#21679#21680#0" expanded="true" />
-            <element signature="e#21750#21751#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sda/example/ForLoopDivisionExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -695,9 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -708,42 +751,119 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sda/example/Main.java">
+    <entry file="jar://C:/java/jdk/jdk_8/src.zip!/java/util/Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+        <state relative-caret-position="1766">
+          <caret line="1532" column="18" selection-start-line="1532" selection-start-column="18" selection-end-line="1532" selection-end-column="18" />
           <folding>
-            <element signature="e#64#65#0" expanded="true" />
-            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#21679#21680#0" expanded="true" />
+            <element signature="e#21750#21751#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sda/example/LogicalOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sda/example/InputOutputExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="8" column="49" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sda/example/FactorialExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
+        <state relative-caret-position="200">
           <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/example/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/example/LogicalOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/jdk/jdk_8/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4050">
+          <caret line="280" column="5" lean-forward="true" selection-start-line="280" selection-start-column="5" selection-end-line="280" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/example/InputOutputExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sda/example/DoWhileLoopExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state relative-caret-position="525">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/example/Excercise5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/example/ExcerciseTabWhile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/example/MethodsExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/example/NestedForLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/example/TwoDimensionMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/example/VectorToMtrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/example/WriteToFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
